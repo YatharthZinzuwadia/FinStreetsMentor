@@ -8,7 +8,7 @@
 <html lang="zxx">
 
 <head>
-  <title>Innovative Solution</title>
+  <title>FinStreets</title>
   <!--meta tags -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -64,11 +64,11 @@
             <ul>
               <li>
                 <span class="fas fa-phone-volume"></span>
-                <p>+91 11 223 344 55</p>
+                <p>+91 91733-25960</p>
               </li>
               <li>
                 <span class="fas fa-envelope"></span>
-                <p><a href="mailto:innovative@gmail.com">Innovative@gmail.com</a></p>
+                <p><a href="mailto:innovative@gmail.com">yatharthzinzuwadia@gmail.com</a></p>
               </li>
               <li>
               </li>
@@ -87,7 +87,7 @@
       </div>
       <nav class="navbar navbar-expand-lg navbar-light">
         <div class="hedder-up">
-          <h1><a href="http://localhost/innovative_solution/" class="navbar-brand" data-blast="color">Innovative</a></h1>
+          <h1><a href="http://localhost/innovative_solution/" class="navbar-brand" data-blast="color">FinStreets</a></h1>
         </div>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>

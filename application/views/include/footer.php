@@ -36,7 +36,7 @@
                 </ul>
             </div>
             <p>
-                © innovative 2023 All rights Reserved | Design By Innovative Team.
+                © FinStreets 2023 All rights Reserved | Design By FinStreets Team.
             </p>
         </div>
     </div>

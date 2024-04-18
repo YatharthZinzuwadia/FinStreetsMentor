@@ -7,11 +7,11 @@
               <ul>
                 <li>
                   <span class="fas fa-phone-volume" ></span>
-                  <p>+91 11 223 344 55</p>
+                  <p>+91 91733-25960</p>
                 </li>
                 <li>
                   <span class="fas fa-envelope"></span>
-                  <p><a href="mailto:innovative@gmail.com">Innovative@gmail.com</a></p>
+                  <p><a href="mailto:innovative@gmail.com">yatharthzinzuwadia@gmail.com</a></p>
                 </li>
                 <li>
                 </li>

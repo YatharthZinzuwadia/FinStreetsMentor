@@ -9,7 +9,7 @@
                   <h6 data-blast="color">Address</h6>
                 </li>
                 <li>
-                  <p>INCOMETAX,<br>AHMEDABAD</p>
+                  <p>CG Road,<br>AHMEDABAD</p>
                 </li>
               </ul>
               <ul>
@@ -17,13 +17,13 @@
                   <h6 data-blast="color">Phone</h6>
                 </li>
                 <li class="mt-2">
-                  <p>+91 11 223 344 55</p>
+                  <p>+91 91733-25960</p>
                 </li>
                 <li class="mt-lg-4 mt-3">
                   <h6 data-blast="color">Email</h6>
                 </li>
                 <li class="mt-2">
-                  <p><a href="mailto:info@example.com">innovative@gmail.com</a></p>
+                  <p><a href="mailto:info@example.com">yatharthzinzuwadia@gmail.com</a></p>
                 </li>
               </ul>
             </div>

@@ -23,7 +23,7 @@
                     <div class="container">
                         <div class="slider-info text-left">
                             <h4>Study</h4>
-                            <h5>Join us We Providing Easy solutions for Your carrier</h5>
+                            <h5>Join us in Providing Easy solutions for Your career</h5>
                             <p>
                             </p>
                             <div class="outs_more-buttn">
@@ -38,7 +38,7 @@
                     <div class="container">
                         <div class="slider-info text-left">
                             <h4>Class</h4>
-                            <h5>e-solutions with Mentors </h5>
+                            <h5>E-solutions with Mentors </h5>
                             <p>
                             </p>
                             <div class="outs_more-buttn">
