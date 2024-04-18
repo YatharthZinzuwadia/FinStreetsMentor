@@ -1,0 +1,35 @@
+ci_sseesion
+
+put following code in your database
+------------------------------------------
+ CREATE TABLE IF NOT EXISTS `ci_sessions` (
+    `id` varchar(40) NOT NULL,
+    `ip_address` varchar(45) NOT NULL,
+    `timestamp` int(10) unsigned DEFAULT 0 NOT NULL,
+    `data` blob NOT NULL,
+    PRIMARY KEY (id),
+    KEY `ci_sessions_timestamp` (`timestamp`)
+);
+--------------------------------------------------
+
+go to application/config/config.php
+search : sess_driver
+
+set configuration : 
+
+$config['sess_driver'] = 'database';
+$config['sess_cookie_name'] = 'ci_sessions';
+$config['sess_expiration'] = 7200;
+$config['sess_save_path'] = 'ci_sessions';//its your table name name
+$config['sess_match_ip'] = FALSE;
+$config['sess_time_to_update'] = 300;
+
+-----------------------------------------------------
+go to application/config/database.php
+set your database name, username and password
+
+-------------------------------------------------------
+got to application/config/autoload.php
+autoload session library
+
+$autoload['libraries'] = array('session');
